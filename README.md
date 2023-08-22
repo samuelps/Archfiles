@@ -1,1 +1,1 @@
-# yes
+# Arch linux definitions for packages
