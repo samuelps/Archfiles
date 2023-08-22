@@ -5,7 +5,10 @@ kwrite
 kmix
 networkmanager-qt
 packagekit-qt5
+egl-wayland
 plasma
+plasma-meta
+plasma-wayland-session
 print-manager
 sddm
 skanlite
