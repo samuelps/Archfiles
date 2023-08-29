@@ -1,6 +1,13 @@
 firefox
 flatpak
 libreoffice-fresh
+libreoffice-fresh-es
+mythes 
+mythes-es
+hyphen 
+hyphen-es
+hunspell 
+hunspell-es_mx
 neofetch
 qbittorrent
 code
@@ -8,4 +15,7 @@ docker
 steam
 dbeaver
 homebank
-
+solaar
+cryfs 
+gocryptfs 
+encfs
